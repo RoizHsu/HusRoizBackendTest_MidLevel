@@ -85,7 +85,7 @@ DELETE /api/myofficeacpd/{id}     # 刪除資料
 ## 繳交清單
 
 - [X] GitHub Repository（包含分支管理記錄）
-- [ ] .NET Core 8 Web API 專案原始碼
+- [X] .NET Core 8 Web API 專案原始碼
 - [X] Swagger 可正常執行 CRUD，每個 API 附有測試 JSON
 - [X] SQL Server 資料庫備份檔 `.bak`（包含測試資料）
 - [ ] README 說明專案架構與執行步驟
